@@ -71,13 +71,13 @@ const PROJECTS = [
 
 const TESTIMONIALS = [
   {
-    name: "Elena Richardson",
+    name: "Mary Wangui",
     role: "Homeowner",
     comment: "The team transformed our outdated living space into a modern sanctuary. Their attention to detail is unmatched.",
     stars: 5
   },
   {
-    name: "Marcus Thorne",
+    name: "Marcus Makau",
     role: "Property Developer",
     comment: "Professional, efficient, and creative. They managed our large-scale construction project with absolute precision.",
     stars: 5
@@ -104,7 +104,7 @@ export default function App() {
             <div className="w-10 h-10 border border-brand-black flex items-center justify-center">
               <span className="text-brand-black font-serif text-xl font-light">V</span>
             </div>
-            <span className="text-xl font-serif font-bold tracking-tighter uppercase">ShelterVibe<span className="font-light text-brand-gold">+</span></span>
+            <span className="text-xl font-serif font-bold tracking-tighter uppercase">Wangarayy<span className="font-light text-brand-gold">+</span></span>
           </div>
 
           {/* Desktop Nav */}
@@ -363,7 +363,7 @@ export default function App() {
             </h2>
             <div className="space-y-8 text-brand-black/60 text-sm leading-relaxed font-light mb-12">
               <p>
-                Founded on the principles of minimalist innovation and structural elegance, ShelterVibe defines the contemporary architectural scene. We believe that a space should not just be built, but distilled to its purest form.
+                Founded on the principles of minimalist innovation and structural elegance, Wangarayy Constructions defines the contemporary architectural scene. We believe that a space should not just be built, but distilled to its purest form.
               </p>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 pt-6">
                 {[
@@ -401,11 +401,11 @@ export default function App() {
               <div className="space-y-12">
                  <div className="group border-l border-brand-black/10 pl-8 hover:border-brand-gold transition-colors">
                     <p className="text-[10px] text-brand-gold uppercase tracking-[0.4em] font-bold mb-2">Social / Info</p>
-                    <p className="text-2xl font-serif font-light italic">@sheltervibe.studio</p>
+                    <p className="text-2xl font-serif font-light italic">@Wangarayy.constructions</p>
                  </div>
                  <div className="group border-l border-brand-black/10 pl-8 hover:border-brand-gold transition-colors">
                     <p className="text-[10px] text-brand-gold uppercase tracking-[0.4em] font-bold mb-2">Nairobi / KE</p>
-                    <p className="text-2xl font-serif font-light italic">Westlands HQ</p>
+                    <p className="text-2xl font-serif font-light italic">Ruiru HQ</p>
                  </div>
               </div>
             </div>
@@ -445,7 +445,7 @@ export default function App() {
                 <span className="text-lg font-serif font-bold tracking-tighter uppercase">ShelterVibe<span className="font-light text-brand-gold">+</span></span>
               </div>
               <p className="text-brand-black/40 leading-relaxed text-sm font-light max-w-sm">
-                A collaborative synthesis of Architecture & Interior Design. Focused on raw materiality and structural innovation since 2008.
+                A collaborative synthesis of Architecture & Interior Design. Focused on raw materiality and structural innovation since 2024.
               </p>
             </div>
 
@@ -474,7 +474,7 @@ export default function App() {
             <div className="flex items-center gap-6">
                <div className="accent-line" />
                <p className="text-[9px] uppercase tracking-[0.4em] font-bold text-brand-black/30">
-                 © 2024 Vesta Shelter Group / Construction & Interiors
+                 © 2026 Wangarayy Group / Construction & Interiors
                </p>
             </div>
             <div className="flex gap-10 text-[9px] uppercase tracking-[0.4em] font-bold text-brand-black/30 italic">
